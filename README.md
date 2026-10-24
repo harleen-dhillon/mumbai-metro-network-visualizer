@@ -64,7 +64,7 @@ The project generates visualizations for:
 - BFS and DFS traversal comparison
 - Network centrality analysis
 
-##Learning Objectives
+## Learning Objectives
 
 - Represent a transport network as a graph.
 - Apply BFS, DFS, and shortest-path algorithms.
