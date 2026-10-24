@@ -1,0 +1,99 @@
+MUMBAI METRO: BFS VS DFS COMPARISON
+============================================
+
+Starting station: Versova
+Total stations: 42
+Total connections: 42
+
+BFS TRAVERSAL ORDER
+1. Versova
+2. DN Nagar
+3. Andheri West
+4. Azad Nagar
+5. Lower Oshiwara
+6. Andheri
+7. Oshiwara
+8. Western Express Highway
+9. Goregaon West
+10. Chakala
+11. Gundavali
+12. Bangur Nagar
+13. Airport Road
+14. Mogra
+15. Lower Malad
+16. Marol Naka
+17. Jogeshwari East
+18. Malad West
+19. Saki Naka
+20. Goregaon East
+21. Valnai
+22. Asalpha
+23. Aarey
+24. Dahanukarwadi
+25. Jagruti Nagar
+26. Dindoshi
+27. Kandivali West
+28. Ghatkopar
+29. Kurar
+30. Shimpoli
+31. Akurli
+32. Borivali West
+33. Poisar
+34. Eksar
+35. Magathane
+36. Mandapeshwar (IC Colony)
+37. Devipada
+38. Kandarpada
+39. Rashtriya Udyan
+40. Anand Nagar
+41. Ovaripada
+42. Dahisar East
+
+DFS TRAVERSAL ORDER
+1. Versova
+2. DN Nagar
+3. Andheri West
+4. Lower Oshiwara
+5. Oshiwara
+6. Goregaon West
+7. Bangur Nagar
+8. Lower Malad
+9. Malad West
+10. Valnai
+11. Dahanukarwadi
+12. Kandivali West
+13. Shimpoli
+14. Borivali West
+15. Eksar
+16. Mandapeshwar (IC Colony)
+17. Kandarpada
+18. Anand Nagar
+19. Dahisar East
+20. Ovaripada
+21. Rashtriya Udyan
+22. Devipada
+23. Magathane
+24. Poisar
+25. Akurli
+26. Kurar
+27. Dindoshi
+28. Aarey
+29. Goregaon East
+30. Jogeshwari East
+31. Mogra
+32. Gundavali
+33. Western Express Highway
+34. Andheri
+35. Azad Nagar
+36. Chakala
+37. Airport Road
+38. Marol Naka
+39. Saki Naka
+40. Asalpha
+41. Jagruti Nagar
+42. Ghatkopar
+
+BFS time complexity: O(V + E)
+DFS time complexity: O(V + E)
+BFS auxiliary space: O(V)
+DFS auxiliary space: O(V)

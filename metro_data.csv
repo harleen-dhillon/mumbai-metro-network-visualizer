@@ -1,0 +1,44 @@
+
+station,next_station,line,edge_type
+Versova,DN Nagar,Line 1,Regular
+DN Nagar,Azad Nagar,Line 1,Regular
+Azad Nagar,Andheri,Line 1,Regular
+Andheri,Western Express Highway,Line 1,Regular
+Western Express Highway,Chakala,Line 1,Regular
+Chakala,Airport Road,Line 1,Regular
+Airport Road,Marol Naka,Line 1,Regular
+Marol Naka,Saki Naka,Line 1,Regular
+Saki Naka,Asalpha,Line 1,Regular
+Asalpha,Jagruti Nagar,Line 1,Regular
+Jagruti Nagar,Ghatkopar,Line 1,Regular
+Dahisar East,Anand Nagar,Line 2A,Regular
+Anand Nagar,Kandarpada,Line 2A,Regular
+Kandarpada,Mandapeshwar (IC Colony),Line 2A,Regular
+Mandapeshwar (IC Colony),Eksar,Line 2A,Regular
+Eksar,Borivali West,Line 2A,Regular
+Borivali West,Shimpoli,Line 2A,Regular
+Shimpoli,Kandivali West,Line 2A,Regular
+Kandivali West,Dahanukarwadi,Line 2A,Regular
+Dahanukarwadi,Valnai,Line 2A,Regular
+Valnai,Malad West,Line 2A,Regular
+Malad West,Lower Malad,Line 2A,Regular
+Lower Malad,Bangur Nagar,Line 2A,Regular
+Bangur Nagar,Goregaon West,Line 2A,Regular
+Goregaon West,Oshiwara,Line 2A,Regular
+Oshiwara,Lower Oshiwara,Line 2A,Regular
+Lower Oshiwara,Andheri West,Line 2A,Regular
+Gundavali,Mogra,Line 7,Regular
+Mogra,Jogeshwari East,Line 7,Regular
+Jogeshwari East,Goregaon East,Line 7,Regular
+Goregaon East,Aarey,Line 7,Regular
+Aarey,Dindoshi,Line 7,Regular
+Dindoshi,Kurar,Line 7,Regular
+Kurar,Akurli,Line 7,Regular
+Akurli,Poisar,Line 7,Regular
+Poisar,Magathane,Line 7,Regular
+Magathane,Devipada,Line 7,Regular
+Devipada,Rashtriya Udyan,Line 7,Regular
+Rashtriya Udyan,Ovaripada,Line 7,Regular
+DN Nagar,Andheri West,Interchange,Transfer
+Western Express Highway,Gundavali,Interchange,Transfer
+Dahisar East,Ovaripada,Interchange,Transfer
